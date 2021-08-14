@@ -152,7 +152,7 @@ del diseño de interfaz de usuario. Elegi material ui porque el diseño que se n
 ## Info de Contacto
   * email:carsdfj@gmail.com
   * [twitter/ferreira_jardin](https://twitter.com/ferreira_jardin)
-  * [linkedin/carlos-jardin](nhttps://www.linkedin.com/in/carlos-ferreira-jardin-799bb0145/)
+  * [linkedin/carlos-jardin](https://www.linkedin.com/in/carlos-ferreira-jardin-799bb0145/)
 
 ## Licensia 
 
