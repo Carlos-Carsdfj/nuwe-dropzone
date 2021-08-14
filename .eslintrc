@@ -1,0 +1,7 @@
+{
+  "extends": ["next", "next/core-web-vitals", "prettier"],
+  "rules": {
+    "indent": ["error", 2],
+    "quotes": ["error", "single"]
+  }
+}
