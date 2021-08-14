@@ -109,7 +109,7 @@ podemos ver el uso de **isDragActive** para renderizar un mensaje y el **input**
 al cual le pasamos las props antes explicadas para funcionar, podemos apreciar  un booleano **isFiles** que sirve para mostrar el componente **ListFiles** que solo es un componente que muestra de forma ordenada los archivos subidos, un **Modal** que saltara a renderizarse cuando queramos notificarle al usuario algun estatus especial de los archivos ya sea un error y que simplemente que los archivos han sido guardados correctamente.
 
 
-tenga en cuenta que la funcionalidad de este componente no se planeaba ser utilizad para subir archivos de forma real a ninguna web o store por lo que al precionar el boton para subir esto activara el loading de la pagina t activara un setTimeout por 5s para simular la carga luego se desactivara el loading y se mostrara el estatus de que los archivos han sido subidos de forma exitosa.
+Tenga en cuenta que la funcionalidad de este componente no se planeaba ser utilizad para subir archivos de forma real a ninguna web o store por lo que al precionar el boton para subir esto activara el loading de la pagina t activara un setTimeout por 5s para simular la carga luego se desactivara el loading y se mostrara el estatus de que los archivos han sido subidos de forma exitosa.
 
 
 ```
