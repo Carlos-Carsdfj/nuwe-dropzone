@@ -7,7 +7,7 @@ en ella se hace uso de una zona de arrastre y suelte para subir archivos de form
 Puedes visitar el enlace anterior para mas detalles , tambien puedes formar parte en la comunidad de
 [Nuwe.io](http://nuwe.io) y sumarte a las diversas actividades que suelen organizar.
 
-[![SonarCloud](https://img.shields.io/badge/sonarcloud-%2BA-orange)](https://img.shields.io/badge/sonarcloud-A%2B-orange)
+[![SonarCloud](https://img.shields.io/badge/sonarcloud-%2BA-orange)](https://sonarcloud.io/dashboard?id=Carlos-Carsdfj_nuwe-dropzone)
 [![CodeFactor](https://www.codefactor.io/repository/github/carlos-carsdfj/nuwe-dropzone/badge)](https://www.codefactor.io/repository/github/carlos-carsdfj/nuwe-dropzone)
 ## Install
 
