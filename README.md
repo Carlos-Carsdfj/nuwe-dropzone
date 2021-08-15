@@ -148,6 +148,12 @@ del diseño de interfaz de usuario. Elegi material ui porque el diseño que se n
     * **React-dropzone**: Libreria que nos facilita mediante hoocks la implementacíon de una zona de trabajo y un input con la propiedades de drop y una pre-configuracíon que nos de facilita el uso y diseño de una dropzone. 
     [react-dropzone]( https://react-dropzone.js.org) es una de las librerias  mas usadas descargadas para react y actualmente todavia sigue en constante mantenimiento ademas la documentacíon es bastante sencilla de entender  por lo que fue mi eleccíon para crear esta zona de drop que necesitaba en el proyecto y no darle tanto rollo creando algo parecido desde cero.  
 
+## Visuales
+
+
+<img src="https://firebasestorage.googleapis.com/v0/b/first-challenge-nuwe.appspot.com/o/readmeImagenes%2Fescritorio-dropzone.png?alt=media&token=c023047d-c072-4ba2-b511-6c853fd60c67" width="600" height="auto" />
+<img src="https://firebasestorage.googleapis.com/v0/b/first-challenge-nuwe.appspot.com/o/readmeImagenes%2Ftelefono-dropzone.png?alt=media&token=76ac714e-dc18-454d-93b0-200356f886df" width="auto" height="600" />
+
 
 ## Info de Contacto
   * email:carsdfj@gmail.com
